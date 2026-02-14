@@ -12,7 +12,6 @@ Because of the above mentioned build failures the PDP10 variants they have been 
 
 ToDo: 
 
-* Convert all the text to unix line endings
 * ~~Remove or fix Cmake since it doesn't work on Alpine Linux~~ Removed but archived.
 
 # Orignial Readme.md:
